@@ -1,0 +1,31 @@
+nav {
+    color: red;
+  }
+  
+li {
+    display: inline;
+    }
+body {
+       font-family: "Roboto Serif", serif;
+      }
+nav {
+    text-align: right;
+}
+h2 {
+    color: #c0c4ff; /* bleue clair */
+}
+#logo {
+  position: fixed;
+  top: 20px;
+  left: 20px; 
+  z-index: 1;
+}
+p {
+  color: red;
+}
+body {
+  background-color: black;
+}
+label {
+  color: white;
+}
